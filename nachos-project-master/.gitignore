@@ -1,0 +1,6 @@
+*.o
+*.coff
+*.swp
+build.linux/nachos
+code/test/abs
+code/test/sleep_test
